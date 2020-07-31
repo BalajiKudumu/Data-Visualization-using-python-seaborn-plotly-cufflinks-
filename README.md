@@ -19,7 +19,7 @@ changing line plot into area plot(it takes only either negative or positive valu
 surface graph (3d)
 
 cf.datagen
-cf.datagen.scatter3d(2,100,mode="stocks"/"abc") stocks=for random stock names / a fpr random alphabet names
+cf.datagen.scatter3d(2,100,mode="stocks"/"abc") stocks=for random stock names / abc for random alphabet names
 
 kind="spread"
 how these two plots are spread to each other.
