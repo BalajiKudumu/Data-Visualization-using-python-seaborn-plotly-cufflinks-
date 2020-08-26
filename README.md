@@ -1,7 +1,7 @@
 # Data-Visualization-using-python-seaborn-plotly-cufflinks-
 
 - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
-- Different graphs and charts of seaborn library is explained in the seaborn  jupyter notebook.
+## Different graphs and charts of seaborn library is explained in the seaborn  jupyter notebook.
 - Plotly provides online graphing, analytics, and statistics tools for individuals and collaboration, as well as scientific graphing libraries for Python, R, MATLAB, Perl, Julia, - Arduino, and REST.
 - To install plotly: pip install plotly
 - Cufflinks is the thurd-party wrapper library around Plotly.
